@@ -1,12 +1,12 @@
-# doctor-consultation-service
-# Doctor Consultation Service 🏥
+
+# Doctor Consultation Service 
 
 This is a microservice built using **Spring Boot** as part of the **Hospital Microservices Project**.  
 It handles **doctor consultation details** and interacts with the **Patient Registration Service**.
 
 ---
 
-## 🚀 Features
+##  Features
 - Register doctor consultations
 - Fetch patient details using REST client
 - Store and retrieve consultation records
@@ -14,7 +14,7 @@ It handles **doctor consultation details** and interacts with the **Patient Regi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Java 17 (or your version)
 - Spring Boot
 - Spring Data JPA
@@ -24,7 +24,7 @@ It handles **doctor consultation details** and interacts with the **Patient Regi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 doctor-consultation-service/
 ├── src/main/java/com/myapp/springcloud/
 │ ├── Controller/ # REST Controllers
@@ -40,7 +40,7 @@ doctor-consultation-service/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/dharani9966/doctor-consultation-service.git
